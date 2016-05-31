@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'each_in_batches/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "each_in_batches"
+  spec.name          = "each_in_batches-RobertAudi"
   spec.version       = EachInBatches::VERSION
   spec.authors       = ["Peter Boling"]
   spec.email         = ["peter.boling@gmail.com"]
